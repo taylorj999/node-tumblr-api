@@ -1,0 +1,22 @@
+{
+  "name": "node-tumblr-api",
+  "version": "0.0.1",
+  "description": "NodeJS tumblr api testing",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+	"tumblr.js":"latest",
+	"express":"latest",
+	"ejs":"latest"
+  }
+}
